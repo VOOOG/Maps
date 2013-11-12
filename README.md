@@ -1,6 +1,6 @@
 ## Estonia formatted as geoJSON and topoJSON
 
-[estonia_admin_counties-maaamet-131107.geojson](../blob/master/estonia/administrative/estonia_admin_counties-maaamet-131107.geojson)
+[estonia_admin_counties-maaamet-131107.geojson](../blob/master/estonia/administrative/estonia_admin_counties-maaamet-131107.geojson)  
 [estonia_admin_counties-maaamet-131107.topojson](../blob/master/estonia/administrative/estonia_admin_counties-maaamet-131107.topojson)  
 based on shapefile by Maa-amet. 7.11.2013
 
