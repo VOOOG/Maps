@@ -1,13 +1,13 @@
 ## Estonia formatted as geoJSON and topoJSON
 
-[estonia_admin_counties-maaamet-131107.geojson](../master/estonia/administrative/estonia_admin_counties-maaamet-131107.geojson)  
-[estonia_admin_counties-maaamet-131107.topojson](../master/estonia/administrative/estonia_admin_counties-maaamet-131107.topojson)  
+[ee_counties.geojson](../master/estonia/administrative/ee_counties.geojson)  
+[ee_counties.topojson](../master/estonia/administrative/ee_counties.topojson)  
 based on a shapefile by Maa-amet. 7.11.2013
 
-[estonia_admin_municipalities-maaamet-131107.geojson](../master/estonia/administrative/estonia_admin_municipalities-maaamet-131107.geojson)  
-[estonia_admin_municipalities-maaamet-131107.topojson](../master/estonia/administrative/estonia_admin_municipalities-maaamet-131107.topojson)  
+[ee_municipalities.geojson](../master/estonia/administrative/ee_municipalities.geojson)  
+[ee_municipalities.topojson](../master/estonia/administrative/ee_municipalities.topojson)  
 based on a shapefile by Maa-amet. 7.11.2013
 
-[estonia_admin_settlements-maaamet-131107.geojson](../master/estonia/administrative/estonia_admin_settlements-maaamet-131107.geojson)  
-[estonia_admin_settlements-maaamet-131107.topojson](../master/estonia/administrative/estonia_admin_settlements-maaamet-131107.topojson)  
+[ee_settlements.geojson](../master/estonia/administrative/ee_settlements.geojson)  
+[ee_settlements.topojson](../master/estonia/administrative/ee_settlements.topojson)  
 based on a shapefile by Maa-amet. 7.11.2013
